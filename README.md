@@ -29,4 +29,4 @@ Users can use their app to “check in” at cafes that they visit. Optionally, 
 The app has a ‘news’ page where users can browse system- generated stories about significant events such as sales or parties. A story consists of a heading and a short body of text (max 1000 characters) and a photo. Stories can be browsed either in date order or by café. We allow customers to like news stories, but not comment on them.
 ## Work
 ### ER-Diagram
-!(https://github.com/Irrela/CafePlatformDB/raw/master/ERR_CafeModel.png)
+!(ERR_CafeModel.png)
